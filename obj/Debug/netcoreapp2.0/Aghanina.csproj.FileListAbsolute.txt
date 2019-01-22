@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\Aghanina\Aghanina\bin\Debug\netcoreapp2.0\Aghanina.deps.json
+C:\Users\moham\source\repos\Aghanina\Aghanina\bin\Debug\netcoreapp2.0\Aghanina.runtimeconfig.json
+C:\Users\moham\source\repos\Aghanina\Aghanina\bin\Debug\netcoreapp2.0\Aghanina.runtimeconfig.dev.json
+C:\Users\moham\source\repos\Aghanina\Aghanina\bin\Debug\netcoreapp2.0\Aghanina.dll
+C:\Users\moham\source\repos\Aghanina\Aghanina\bin\Debug\netcoreapp2.0\Aghanina.pdb
+C:\Users\moham\source\repos\Aghanina\Aghanina\obj\Debug\netcoreapp2.0\Aghanina.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Aghanina\Aghanina\obj\Debug\netcoreapp2.0\Aghanina.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\Aghanina\Aghanina\obj\Debug\netcoreapp2.0\Aghanina.AssemblyInfo.cs
+C:\Users\moham\source\repos\Aghanina\Aghanina\obj\Debug\netcoreapp2.0\Aghanina.dll
+C:\Users\moham\source\repos\Aghanina\Aghanina\obj\Debug\netcoreapp2.0\Aghanina.pdb
+C:\Users\moham\source\repos\Aghanina\Aghanina\obj\Debug\netcoreapp2.0\Aghanina.csprojAssemblyReference.cache

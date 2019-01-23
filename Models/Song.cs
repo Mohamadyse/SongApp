@@ -10,6 +10,6 @@ namespace Aghanina.Models
         public int Id { get; set; }
         public string Name { get; set; } = "empty";
         public Artist Artist { get; set; }
-        
+      
     }
 }

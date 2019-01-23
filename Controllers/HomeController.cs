@@ -18,23 +18,18 @@ namespace Aghanina.Controllers
             return View(randomPlayerViewModel);
         }
 
-    //    public IActionResult About()
-    //    {
-    //        ViewData["Message"] = "Your application description page.";
+        public IActionResult MySongs()
+        {
+            var myList = new MySongs();
 
-    //        return View();
-    //    }
+            return View(myList);
+        }
+        public IActionResult DisplayDetail( )
+        {
+            return View();
+        }
 
-    //    public IActionResult Contact()
-    //    {
-    //        ViewData["Message"] = "Your contact page.";
 
-    //        return View();
-    //    }
 
-    //    public IActionResult Error()
-    //    {
-    //        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-    //    }
     }
 }

@@ -26,7 +26,7 @@ namespace Aghanina.Controllers
         }
         public IActionResult DisplayDetail( )
         {
-            return View();
+            return Content("some details to show");
         }
 
 

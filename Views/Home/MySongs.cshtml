@@ -1,9 +1,7 @@
 ﻿@model Aghanina.ViewModels.MySongs
 @{ ViewData["Title"] = "MySongs";
 }
-<table class=“table
-       table-­‐bordered
-       table-­‐hover”>
+<table>
     <th>
     <td>Song</td>
     <td>artist</td>
@@ -13,19 +11,19 @@
 
     @foreach (var song in Model.MyList)
     {
-        <tr>
-            <td> @song.Name  </td>
-            @if (song.Artist == null)
-            {
-                <td> unknown </td> }
-            else
-            {
-                <td> song.Artist </td>
-            }
+    <tr>
+        <td> @song.Name  </td>
+        @if (song.Artist == null)
+        {
+            <td> unknown </td> }
+        else
+        {
+            <td> song.Artist </td>
+        }
 
-            <td><a asp-controller="Home" asp-action="DisplayDetail"> Details </a></td>
+        <td><a asp-controller="Home" asp-action="DisplayDetail"> Details </a></td>
 
-        </tr>
+    </tr>
     }
 
 
